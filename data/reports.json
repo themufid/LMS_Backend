@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "userId": 1,
+      "courseId": 1,
+      "assessmentId": 1,
+      "grade": 95
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "courseId": 2,
+      "assessmentId": 2,
+      "grade": 88
+    }
+]
+  

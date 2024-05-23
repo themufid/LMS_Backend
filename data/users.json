@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "username": "afifah_khoirunnisa",
+        "email": "afifah@gmail.com",
+        "password": "afifah2024", 
+        "role": "student"
+    },
+    {
+        "id": 2,
+        "username": "Mufid, S. Kom",
+        "email": "teacher@gmail.com",
+        "password": "teacher2024",  
+        "role": "teacher"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "title": "Node.js 101",
+      "description": "Introduction to basic Node.js",
+      "teacherId": 2  
+    },
+    {
+      "id": 2,
+      "title": "Python 101",
+      "description": "Introduction to basic Python",
+      "teacherId": 2
+    }
+  ]
+  

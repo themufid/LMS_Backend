@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "courseId": 1,
+      "title": "Chapter 1: Introduction to HTML",
+      "description": "Basic concepts of algebra",
+      "type": "video",
+      "url": "https://youtube.com/"
+    },
+    {
+      "id": 2,
+      "courseId": 1,
+      "title": "Chapter 2: Basic Equations",
+      "description": "Solving problem involving basic equations",
+      "type": "pdf",
+      "url": "https://almufid.tech/problem.pdf"
+    }
+]
+  

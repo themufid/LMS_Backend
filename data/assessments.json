@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "courseId": 1,
+    "title": "Quiz 1",
+    "description": "Basic HTML",
+    "dueDate": "2024-12-31"
+  },
+  {
+    "id": 2,
+    "courseId": 2,
+    "title": "Quiz 1",
+    "description": "Basic CSS",
+    "dueDate": "2024-12-31"
+  },
+  {
+    "id": 1716427131368,
+    "courseId": 1,
+    "title": "Quiz 1",
+    "description": "Basic JS",
+    "dueDate": "2024-12-31"
+  }
+]
